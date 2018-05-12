@@ -1,0 +1,40 @@
+_repo: Prowling-about-Panama_38815
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Best, Arthur William
+    alias: Best, A. W.
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '39657'
+    url: http://www.gutenberg.org/2009/agents/39657
+  - agent_name: Best, Alice Mary Leveque
+    birthdate: 1870
+    deathdate: 1926
+    gutenberg_agent_id: '39656'
+    url: http://www.gutenberg.org/2009/agents/39656
+covers:
+- cover_type: archival
+  image_path: 38815-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, George A. (George Amos)
+    alias: Miller, George Amos
+    birthdate: 1868
+    gutenberg_agent_id: '39655'
+    url: http://www.gutenberg.org/2009/agents/39655
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama -- Description and travel'
+- !lcc 'F1561'
+title: Prowling about Panama
+url: http://www.gutenberg.org/ebooks/38815
